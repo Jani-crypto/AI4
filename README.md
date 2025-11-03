@@ -1,0 +1,5 @@
+AI code generation tools such as GitHub Copilot can produce optimized, clean, and efficient solutions in seconds. In this task, Copilot suggested using Python’s built-in sorted() function with a lambda expression, resulting in a compact one-line implementation. This approach leverages Python’s internal Timsort algorithm, which operates in O(n log n) time complexity, making it fast and reliable for large datasets. It also improves readability and reduces the risk of logical errors.
+
+In contrast, the manually written version uses a bubble sort algorithm, which compares and swaps elements iteratively. Although functional, this method is inefficient for large lists due to its O(n²) time complexity. However, manual coding helps developers understand sorting logic and algorithmic flow more deeply.
+
+Overall, the AI-generated code is more efficient, maintainable, and production-ready. It saves development time while delivering performance and accuracy. Manual implementation remains valuable for learning and debugging but is not suitable for high-performance tasks.
